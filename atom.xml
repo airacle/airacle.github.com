@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-03-08T16:07:40+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://airacle.github.com/atom.xml" rel="self"/>
+  <link href="http://airacle.github.com/"/>
+  <updated>2013-03-08T16:52:25+08:00</updated>
+  <id>http://airacle.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -14,10 +14,46 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Hey]]></title>
+    <link href="http://airacle.github.com/blog/2013/03/08/hey/"/>
+    <updated>2013-03-08T16:36:00+08:00</updated>
+    <id>http://airacle.github.com/blog/2013/03/08/hey</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hi]]></title>
+    <link href="http://airacle.github.com/blog/2013/03/08/hi/"/>
+    <updated>2013-03-08T16:32:00+08:00</updated>
+    <id>http://airacle.github.com/blog/2013/03/08/hi</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[O2O]]></title>
+    <link href="http://airacle.github.com/blog/2013/03/08/o2o/"/>
+    <updated>2013-03-08T16:30:00+08:00</updated>
+    <id>http://airacle.github.com/blog/2013/03/08/o2o</id>
+    <content type="html"><![CDATA[<p>O2O</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[if...then...]]></title>
+    <link href="http://airacle.github.com/blog/2013/03/08/if-dot-dot-dot-then-dot-dot-dot/"/>
+    <updated>2013-03-08T16:11:00+08:00</updated>
+    <id>http://airacle.github.com/blog/2013/03/08/if-dot-dot-dot-then-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>if¡­¡­then¡­¡­</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/blog/2013/03/08/hello-world/"/>
+    <link href="http://airacle.github.com/blog/2013/03/08/hello-world/"/>
     <updated>2013-03-08T16:06:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/03/08/hello-world</id>
+    <id>http://airacle.github.com/blog/2013/03/08/hello-world</id>
     <content type="html"><![CDATA[<p>Hello Octopress !</p>
 ]]></content>
   </entry>
