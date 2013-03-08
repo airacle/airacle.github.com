@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://airacle.github.com/atom.xml" rel="self"/>
   <link href="http://airacle.github.com/"/>
-  <updated>2013-03-08T16:52:25+08:00</updated>
+  <updated>2013-03-08T16:53:25+08:00</updated>
   <id>http://airacle.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -37,15 +37,6 @@
     <updated>2013-03-08T16:30:00+08:00</updated>
     <id>http://airacle.github.com/blog/2013/03/08/o2o</id>
     <content type="html"><![CDATA[<p>O2O</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[if...then...]]></title>
-    <link href="http://airacle.github.com/blog/2013/03/08/if-dot-dot-dot-then-dot-dot-dot/"/>
-    <updated>2013-03-08T16:11:00+08:00</updated>
-    <id>http://airacle.github.com/blog/2013/03/08/if-dot-dot-dot-then-dot-dot-dot</id>
-    <content type="html"><![CDATA[<p>if¡­¡­then¡­¡­</p>
 ]]></content>
   </entry>
   
